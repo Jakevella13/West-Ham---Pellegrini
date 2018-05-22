@@ -4,7 +4,7 @@ font-size : 20px;
 }
 
 body {
-  background-color: lightgrey;
+  background-color: white;
 }
 
 .heading1 {
@@ -30,6 +30,16 @@ body {
 .paragraph1 {
   background-color : lightblue;
 }
- 
 
-
+.paragraph2 {
+  background-color : lightblue;
+  font-size : 20px;
+  }
+.paragraph3 {
+  background-color : lightblue;
+  font-size : 20px;
+  }
+.paragraph4 {
+  background-color : lightblue;
+  font-size : 20px;
+  }
