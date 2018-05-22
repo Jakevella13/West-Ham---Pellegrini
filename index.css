@@ -48,6 +48,11 @@ body {
   background-color : powderblue;
 }
 
+.underpic {
+  font-size : 15px;
+    background : powderblue;
+  width : 33%
+}
 .paragraph1 {
   color: black;
   text-align: center;
@@ -59,7 +64,6 @@ body {
 .paragraph1 {
   background-color :powderblue;
 }
-
 .paragraph2 {
   background-color : powderblue;
   font-size : 20px;
@@ -72,4 +76,11 @@ body {
   background-color : powderblue;
   font-size : 20px;
   }
+ 
 
+.button {
+  background-color: powderblue;
+  color: black;
+  border: 0;
+  padding: 20px;
+}
