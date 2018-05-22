@@ -1,0 +1,35 @@
+.head1 { 
+  font-family : clarendon;
+font-size : 20px;
+}
+
+body {
+  background-color: lightgrey;
+}
+
+.heading1 {
+  color: black;
+  text-align: center;
+}
+.heading1 {
+  font-family : verdana;
+  font-size : 50px;
+}
+.heading1 {
+  background-color : lightblue;
+}
+
+.paragraph1 {
+  color: black;
+  text-align: center;
+}
+.paragraph1 {
+  font-family : verdana;
+  font-size : 40px;
+}
+.paragraph1 {
+  background-color : lightblue;
+}
+ 
+
+
