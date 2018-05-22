@@ -1,13 +1,42 @@
 .head1 { 
-  font-family : clarendon;
-font-size : 20px;
+  font-family : tahona;
+font-size : 40px;
+  color : dodgerblue
 }
 
 body {
   background-color: white;
 }
 
-.heading1 {
+.searchbar a {
+  color : dodgerblue;
+  padding : 5px; 
+  font size : 15px;
+}
+
+.searchbar {
+  padding: 6px 10px;
+  margin-top: 8px;
+  margin-right: 16px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+ .searchbar [type=text], .topnav .search-container button {
+    float: none;
+    text-align: left;
+    width: 30%;
+    margin: 0;
+    padding: 8px;
+  }
+ 
+ div class="searchbar">
+  <a class="active" href="#home">Home</a>
+
+
+    
+  .heading1 {
   color: black;
   text-align: center;
 }
@@ -16,7 +45,7 @@ body {
   font-size : 50px;
 }
 .heading1 {
-  background-color : lightblue;
+  background-color : moccasin;
 }
 
 .paragraph1 {
@@ -28,18 +57,19 @@ body {
   font-size : 40px;
 }
 .paragraph1 {
-  background-color : lightblue;
+  background-color :moccasin;
 }
 
 .paragraph2 {
-  background-color : lightblue;
+  background-color : moccasin;
   font-size : 20px;
   }
 .paragraph3 {
-  background-color : lightblue;
+  background-color : moccasin;
   font-size : 20px;
   }
 .paragraph4 {
-  background-color : lightblue;
+  background-color : moccasin;
   font-size : 20px;
   }
+
