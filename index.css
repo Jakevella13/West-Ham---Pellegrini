@@ -82,6 +82,8 @@ body {
 }
 .table{
   background-color : powderblue;
+  font-weight : bold;
+  text-align : center;
 }
 
 .underpic {
@@ -112,6 +114,6 @@ body {
   background-color : powderblue;
   font-size : 20px;
   }
- 
+
 
 
